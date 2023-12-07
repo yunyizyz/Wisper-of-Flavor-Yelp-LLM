@@ -11,7 +11,7 @@ Dependencies:
 
 Install dependencies using pip install name. Replace "name" with the actual name of the package in dependencies list above.
 
-### Dataset:
+### Datasets:
 - yelp_academic_dataset_business.json: raw data downloaded from yelp official website. Please download the data from this link:: https://www.yelp.com/dataset. 
 - yelp_academic_dataset_review.json: raw data downloaded from yelp official website. Please download the data from this link: https://www.yelp.com/dataset.
 - df_labeled_test.csv: The whole 1,000,000 data with predicted labels using BERT. Please download the data from this link: https://drive.google.com/file/d/10PcVCoBCnqxw4uqgUA45UfAvxuzkakqd/view?usp=sharing
