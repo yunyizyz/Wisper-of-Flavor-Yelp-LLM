@@ -11,8 +11,6 @@ Dependencies:
 
 Install dependencies using pip install name. Replace "name" with the actual name of the package in dependencies list above.
 
-## Order of Running codes
-Please run codes in folders Word2Vec_TFIDF_traditionalML_RNN, BERT, EDA_cluster_time_series one by one. For the first two files, the raw datasets and intermediate datasets needed to run the code are included in each file, no need to change anything in the code. For EDA_cluster_time_series folder, since the datasets are too large to upload, please download the dataset from links we provided below and change the file path in our code.
 
 ## Word2Vec_TFIDF_traditionalML_RNN
 This folder contains code for using TF-IDF and Word2Vec to deal with text data. The subsequent steps involve applying traditional machine learning models ( Decision Tree, Naive Bayes, Linear SGD Classifier, Logistic Regression, Random Forest, and SVC) and applying RNN (Recurrent Netural Network) and evaluating models' performance.
