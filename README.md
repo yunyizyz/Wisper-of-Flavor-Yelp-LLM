@@ -9,7 +9,6 @@ Dependencies:
 - scikit-learn
 - tqdm
 
-Install dependencies using pip install name. Replace "name" with the actual name of the package in dependencies list above.
 
 ### Datasets:
 - yelp_academic_dataset_business.json: raw data downloaded from yelp official website. Please download the data from this link:: https://www.yelp.com/dataset. 
